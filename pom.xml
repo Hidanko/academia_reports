@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>net.sourceforge.dynamicreports</groupId>
 			<artifactId>dynamicreports-googlecharts</artifactId>
-			<version>4.0.0</version>
+			<version>6.12.0</version>
 		</dependency>
   </dependencies>
 </project>
