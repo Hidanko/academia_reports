@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>net.sourceforge.dynamicreports</groupId>
 			<artifactId>dynamicreports-adhoc</artifactId>
-			<version>3.2.1</version>
+			<version>6.12.1</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sourceforge.dynamicreports</groupId>
